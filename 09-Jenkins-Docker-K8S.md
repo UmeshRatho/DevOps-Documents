@@ -115,7 +115,7 @@ eksctl create cluster --name cluster-name  \
 --nodes-min 2 \
 --nodes-max 2 \ 
 --zones <AZ-1>,<AZ-2>
-```
+
 ```
 eksctl create cluster --name ashokit-cluster --region ap-south-1 --node-type t2.medium  --zones ap-south-1a,ap-south-1b**
 ```
